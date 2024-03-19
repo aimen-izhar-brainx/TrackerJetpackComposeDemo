@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyTrackerApp</string>
+    <string name="welcome_to_main_habits">Welcome to Main Habits</string>
+    <string name="explore_the_app">Explore the app, Find some peace of mind to achieve good habits.</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="continue_with_google">CONTINUE WITH GOOGLE</string>
+    <string name="or_log_in_with_email">OR LOG IN WITH EMAIL</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">&#160;Sign up</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="dont_have_account">Don\'t have account?</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="track_your_goal">Track Your Goal</string>
+    <string name="get_burn">Get Burn</string>
+    <string name="dont_worry_if_you_have_trouble">Don\'t worry if you have trouble determining your goals, We can help you determine your goals and track your goals</string>
+    <string name="lets_keep_burining">Let’s keep burning, to achieve yours goals, it hurts only temporarily, if you give up now you will be in pain forever</string>
+    <string name="whats_time_do_you_usually_wake_up">Whats time do you usually wake up?</string>
+    <string name="what_habit_do_you_hope_achieve">What do you hope to achieve with Main Habit</string>
+    <string name="i_want_to_build_good_habits">I want to build good habits</string>
+    <string name="i_want_to_be_organized">I want to be organized</string>
+    <string name="not_ready_to_answer">Not ready to answer</string>
+    <string name="choose_your_first_habit">Choose your first Habit</string>
+    <string name="drinking_water">Drinking Water</string>
+    <string name="morning_walk">Morning Walk</string>
+    <string name="enter_glasses_of_water">Enter Glasses of water</string>
+</resources>

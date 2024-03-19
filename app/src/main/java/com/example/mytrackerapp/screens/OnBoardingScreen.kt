@@ -65,7 +65,7 @@ fun OnBoardingScreen(navController: NavController) {
 
     LaunchedEffect(Unit) {
         translationX.animateTo(1f)
-        delay(5000) // 10-second delay
+        delay(3000) // 10-second delay
         currentImage =
             if (currentImage == R.drawable.ic_onboarding1) R.drawable.ic_onboarding2 else R.drawable.ic_onboarding1
 
